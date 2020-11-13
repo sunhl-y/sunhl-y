@@ -2,8 +2,6 @@
 
 - About Me
 
-  一个刚开始使用GitHub的萌新~
-
   立志成为技术人！记录学习！
 
 - Others
