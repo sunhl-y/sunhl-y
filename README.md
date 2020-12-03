@@ -6,7 +6,7 @@
 
 - Others
   
-  **个人博客：** www.xr7745.top
+  **个人博客：** www.xr7745.top/JavaLearning
   
 
 
