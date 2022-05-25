@@ -6,7 +6,7 @@
 
 - Others
   
-  **学习记录：** www.xr7745.top/
+  **学习记录：** www.xr7745.top/vuepressBlog
   
   ![访问人数：](https://visitor-badge.glitch.me/badge?page_id=sunhl-y)
 
