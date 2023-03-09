@@ -2,11 +2,9 @@
 
 - About Me
 
-  学习历程！
+  Nobody to Somebody.
 
 - Others
-  
-  **学习记录：** www.xr7745.top/vuepressBlog
   
   ![访问人数：](https://visitor-badge.glitch.me/badge?page_id=sunhl-y)
 
